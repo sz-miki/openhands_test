@@ -10,5 +10,5 @@ This is a simple test repository.
 To run the sample script:
 
 ```bash
-python hello.py
+python3 hello.py
 ```
